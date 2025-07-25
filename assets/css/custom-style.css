@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+.mp-carousel {
+    margin-top: 76px;
+}
+.mp-bg-darkblue {
+    background-color: #063f86;
+}
+.mp-card {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.mp-card .card-body p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.mp-card:hover {
+    background-color: #212429;
+}
+.mp-footer {
+    font-weight: bold;
+}
